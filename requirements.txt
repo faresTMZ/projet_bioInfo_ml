@@ -1,0 +1,14 @@
+# Jupter Notebook
+ipykernel
+
+# Utilities
+numpy
+pandas
+matplotlib
+
+# Machine Learning
+scikit-learn
+
+# Stats
+scipy
+statsmodels
